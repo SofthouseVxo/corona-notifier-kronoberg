@@ -8,3 +8,7 @@ Result will be shown as a popup in Windows. Might work in Linux and Mac OS as we
 1. npm install
 2. Modify notifier.js, line 4. Add your code.
 3. npm start
+
+## Example
+
+![Screenshot](example.png)
