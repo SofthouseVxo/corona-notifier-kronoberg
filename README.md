@@ -2,6 +2,7 @@
 
 Simple nodeJS application that checks the status each 10 minutes of your covid-19 test.
 Result will be shown as a popup in Windows. Might work in Linux and Mac OS as well but is untested :)
+Works for Region Kronoberg and Blekinge.
 
 ## How to use
 
