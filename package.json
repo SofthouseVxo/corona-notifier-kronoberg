@@ -1,0 +1,15 @@
+{
+  "name": "corona-notifier-kronoberg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notifier.js",
+  "scripts": {
+    "start": "node notifier.js"
+  },
+  "author": "jonas.saha@softhouse.se",
+  "license": "",
+  "dependencies": {
+    "follow-redirects": "^1.13.0",
+    "node-notifier": "^8.0.0"
+  }
+}
